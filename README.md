@@ -283,39 +283,3 @@ List the most important issues first.
 Suggest beginner-friendly improvements and explain why each one is useful.
 ```
 
----
-
-## Important Notes
-
-- The app requires an internet connection.
-- The browser must allow microphone access.
-- Never commit your Groq API key to GitHub.
-- AI responses may occasionally be incomplete or inaccurate.
-- Keep spoken questions short and clear for better transcription accuracy.
-
----
-
-## What We Learned
-
-- capturing microphone input with Streamlit
-- converting speech into text with Whisper
-- sending transcribed text to a language model
-- converting AI-generated text into speech
-- validating empty model responses
-- using GitHub Copilot to identify failure scenarios and improvements
-
----
-
-## YouTube Channel
-
-This project was created for Karthik's Show.
-
-Learn. Build. Grow.
-
-Subscribe to follow the full AI Projects Series.
-
----
-
-## License
-
-This project is intended for learning and demonstration purposes.
